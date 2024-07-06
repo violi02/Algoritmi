@@ -1,1 +1,2 @@
-Alcuni esercizii in preparazione all'esame di laboratorio del corso di Algoritmi e Strutture Dati.
+Some exercises for Algorithm and Data Structure's course, y. 2021/2022.
+(obviously needing some refactoring).
